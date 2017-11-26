@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 2ed94b01ed3549e49ac6a8fb04c69415
+timeCreated: 1511139718
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gobold CUTS
+  fontNames:
+  - Gobold CUTS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

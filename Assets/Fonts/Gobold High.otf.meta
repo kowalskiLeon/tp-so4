@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: fc5477959e8b85a4d9afb259c949f9db
+timeCreated: 1511139720
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gobold High
+  fontNames:
+  - Gobold High
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d572de38c44df954387785e6eba45c9d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1472850d8f3d2f246a5f3d764e3f7ac2
+timeCreated: 1511139718
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gobold High Thin
+  fontNames:
+  - Gobold High Thin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
